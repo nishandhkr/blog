@@ -26,6 +26,9 @@
 *.sql
 *.sqlite
 
+## Local run #
+_site
+
 # OS generated files #
 ######################
 .DS_Store
