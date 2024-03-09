@@ -1,4 +1,4 @@
 ---
-title: The power of truth
+title: "The power of truth"
 ---
 
