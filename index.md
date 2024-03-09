@@ -1,4 +1,3 @@
 ---
-title: "The power of truth"
+title: ""
 ---
-
