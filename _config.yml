@@ -1,3 +1,24 @@
-theme: minima
 title: Thoughts
 author: housefly
+github_username: nishandhkr
+linkedin_username: nishandhkr
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
+
+plugins: [jekyll-include-cache]
+
+#Remove Footer Atom Feed
+atom_feed:
+  hide: true
+
+search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
